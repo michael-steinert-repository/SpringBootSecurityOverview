@@ -15,3 +15,13 @@ The Permission-based Authentication implements the following Use Case:
 ## Database Authentication
 
 ![cover](https://user-images.githubusercontent.com/29623199/101291912-7d6d2500-380c-11eb-9a11-2b4f704d66b9.PNG)
+
+## JSON Web Token
+
+![cover](https://user-images.githubusercontent.com/29623199/101343365-30c53080-3884-11eb-9a3e-8f978156731a.PNG)
+
+### Request Filter Chain with JSON Web Token
+
+![cover](https://user-images.githubusercontent.com/29623199/101372073-c627eb00-38ab-11eb-92e0-f822b46ab91b.PNG)
+
+
